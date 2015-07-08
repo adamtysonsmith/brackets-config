@@ -1,0 +1,8 @@
+80’s Baby Theme
+Brackets Outline List
+Brackets Snippets (by edc)
+Emmet
+Indent Guides
+SASSHints
+Theseus for Brackets
+JavaScript & CSS CDN Suggestions

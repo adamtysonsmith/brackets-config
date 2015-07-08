@@ -1,0 +1,13 @@
+{
+    "html": {
+        "filters": "html",
+        "profile": "html",
+        "snippets": {
+            "jq": "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js\"></script>",
+            "u": "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js\"></script>",
+            "_": "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.10.0/lodash.min.js\"></script>",
+            "ang": "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.1/angular.min.js\"></script>",
+            "d3": "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js\"></script>"
+        }
+    }
+}
